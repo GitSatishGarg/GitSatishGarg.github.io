@@ -243,7 +243,7 @@ header .container .col-md-7 p {
 /* Section 3 */
 
 .section-3 {
-  height: 70vmin;
+  height: 80vmin;
   margin-top: 15vmin;
   background: var(--bggradient);
 }
@@ -255,7 +255,6 @@ header .container .col-md-7 p {
 }
 
 .section-3 .col-md-12 > p {
-  padding: 0 4em;
   padding-bottom: 2em;
   color: var(--light-gray);
   font-size: 3vmin;
